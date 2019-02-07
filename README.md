@@ -77,6 +77,7 @@ A curated list of awesome B&amp;R  frameworks, libraries, resources, and shiny t
 ## IOT
 
 * [br-sitemanager-azure-demo](https://github.com/hzeitlhofer/br-sitemanager-azure-demo) - B&amp;R SiteManager Demo for Azure IoT
+* [PahoMQTT_Library](https://github.com/br-automation-com/PahoMQTT_Library) - Eclipse Paho MQTT Client Library for B&R SG4 targets
 
 ## Mathematics
 
