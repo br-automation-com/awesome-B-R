@@ -70,4 +70,8 @@ A curated list of awesome B&amp;R  frameworks, libraries, resources, and shiny t
 
 ## HTML, CSS, Javascript
 
-* [Javascript memory leak](https://github.com/hilch/web-memoryleak) - let javascript allocate more and more memory to test embedded web panels (eg. B&amp;R T50, T30 panels)
+* [web-memoryleak](https://github.com/hilch/web-memoryleak) - let javascript allocate more and more memory to test embedded web panels (eg. B&amp;R T50, T30 panels)
+
+## IOT
+
+* [br-sitemanager-azure-demo](https://github.com/hzeitlhofer/br-sitemanager-azure-demo) - B&amp;R SiteManager Demo for Azure IoT
