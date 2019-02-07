@@ -67,6 +67,7 @@ A curated list of awesome B&amp;R  frameworks, libraries, resources, and shiny t
 
 * [Modbus TCP dotnet](https://github.com/stephan1827/modbusTCP) - Visual Studio .NET modbusTCP class implementing a Modbus TCP master driver
 * [AsUdp AsTcp demo1](https://github.com/hilch/demo-AsTcp-AsUdp) - Automation Studio demo: how to use the TcpIp- system- libraries "AsTcp" and "AsUdp" 
+* [openPOWERLINK](http://openpowerlink.sourceforge.net/web/) - openPOWERLINK - An Open Source POWERLINK protocol stack
 
 ---
 
