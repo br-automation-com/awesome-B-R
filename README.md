@@ -34,12 +34,12 @@ A curated list of awesome B&amp;R  frameworks, libraries, resources, and shiny t
 
 * [Mapp Motion Getting Started](https://github.com/hilch/mapp-motion-getting-started) - This tutorial shows how to use B&amp;R "Mapp Motion" Technology Package to implement a single axis project on an ETA training system
 * [ACOPOStrak inkscape](https://github.com/hilch/ACOPOStrak-Inkscape-Template) - Use Open Source Tool 'Inkscape' to draw ACOPOS-Trak-Systems developed by B&amp;R
-* [Mapp Motion CNC demo1](https://github.com/hilch/demo-MpCnc-with-mapp-motion-) - Automation Studio demo cnc application with mapp components (MpCNC based on mapp motion)
+* [demo-MpCnc-with-mapp-motion-](https://github.com/hilch/demo-MpCnc-with-mapp-motion-) - Automation Studio demo cnc application with mapp components (MpCNC based on mapp motion)
 
 ### based on ACP10/ARNC0 and standard libraries
 
 * [acinvlib](https://github.com/hilch/ac_invlib) - B&amp;R Automation Studio Library for ACOPOSinverter
-* [MpCNC based on ARNC0](https://github.com/hilch/demo-MpCnc-with-ACP10-ARNC0) - demo cnc application (Automation Studio) with B&amp;R mapp components (MpCNC based on ACP10/ARNC0) 
+* [demo-MpCnc-with-ACP10-ARNC0](https://github.com/hilch/demo-MpCnc-with-ACP10-ARNC0) - demo cnc application (Automation Studio) with B&amp;R mapp components (MpCNC based on ACP10/ARNC0) 
 
 
 ---
