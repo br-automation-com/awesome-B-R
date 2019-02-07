@@ -16,7 +16,6 @@ A curated list of awesome B&amp;R  frameworks, libraries, resources, and shiny t
 * [FindUsbStickOnBAndRPlc](https://github.com/hilch/FindUsbStickOnBAndRPlc) -Search USB Stick connected to a B&amp;R PLC and use it as file device for FileIO - Library.
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
 * [ap3131](https://github.com/hilch/demo-AP3131) - B&am;R Automation Studio demo: how to get data from X20 energy metering module X20AP3131
-* [RandomLib](https://github.com/brownNinja17/RandomLib) - RandomLib is an Automation Studio library to generate random data.
 
 ---
 
@@ -76,3 +75,8 @@ A curated list of awesome B&amp;R  frameworks, libraries, resources, and shiny t
 ## IOT
 
 * [br-sitemanager-azure-demo](https://github.com/hzeitlhofer/br-sitemanager-azure-demo) - B&amp;R SiteManager Demo for Azure IoT
+
+## Mathematics
+
+* [RandomLib](https://github.com/brownNinja17/RandomLib) - RandomLib is an Automation Studio library to generate random data.
+
