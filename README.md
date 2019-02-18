@@ -28,13 +28,15 @@ A curated list of awesome B&amp;R  frameworks, libraries, resources, and shiny t
 ---
 
 ## Motion
-*single axis, cnc, robotik etc*
+*single axis, cnc, robotic etc*
 
 ### based on mapp Motion
 
 * [Mapp Motion Getting Started](https://github.com/hilch/mapp-motion-getting-started) - This tutorial shows how to use B&amp;R "Mapp Motion" Technology Package to implement a single axis project on an ETA training system
 * [ACOPOStrak inkscape](https://github.com/hilch/ACOPOStrak-Inkscape-Template) - Use Open Source Tool 'Inkscape' to draw ACOPOS-Trak-Systems developed by B&amp;R
 * [demo-MpCnc-with-mapp-motion-](https://github.com/hilch/demo-MpCnc-with-mapp-motion-) - Automation Studio demo cnc application with mapp components (MpCNC based on mapp motion)
+* [mapp-robotics-getting-started](https://github.com/hilch/mapp-robotics-getting-started) - This tutorial shows how to use B&amp;R "Mapp Motion" Technology Package to implement a Delta Robot (Mapp Robotics)
+
 
 ### based on ACP10/ARNC0 and standard libraries
 
