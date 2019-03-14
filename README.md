@@ -44,7 +44,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 ### based on ACP10/ARNC0 and standard libraries
 
 * [acinvlib](https://github.com/hilch/ac_invlib) - B&amp;R Automation Studio Library for ACOPOSinverter
-* [demo-MpCnc-with-ACP10-ARNC0](https://github.com/hilch/demo-MpCnc-with-ACP10-ARNC0) - demo cnc application (Automation Studio) with B&amp;R mapp components (MpCNC based on ACP10/ARNC0) 
+* [demo-MpCnc-with-ACP10-ARNC0](https://github.com/hilch/demo-MpCnc-with-ACP10-ARNC0) - demo cnc application (Automation Studio) with B&R mapp components (MpCNC based on ACP10/ARNC0) 
 
 
 ---
