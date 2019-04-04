@@ -71,6 +71,8 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 ## Communication
 
 * [Modbus TCP dotnet](https://github.com/stephan1827/modbusTCP) - Visual Studio .NET modbusTCP class implementing a Modbus TCP master driver
+* [Modbus TCP BR dotnet](https://github.com/stephan1827/modbusTCPBR-DotNET) - Visual Studio .NET modbusTCP class implementing a Modbus TCP master driver for the B&R X20BC0087 bus controller
+* [Modbus TCP BR dotnet](https://github.com/stephan1827/modbusTCP-Automation-Studio) - modbusTCP library for Automation Studio with legacy runtimes that don't support native modbusTCP
 * [AsUdp AsTcp demo1](https://github.com/hilch/demo-AsTcp-AsUdp) - Automation Studio demo: how to use the TcpIp- system- libraries "AsTcp" and "AsUdp" 
 * [openPOWERLINK](http://openpowerlink.sourceforge.net/web/) - openPOWERLINK - An Open Source POWERLINK protocol stack
 
