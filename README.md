@@ -65,7 +65,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [brsnmp](https://github.com/hilch/brsnmp) - Execute PVI-SNMP commands for B&R plcs (list/search PLC, change IP settings etc.)
 * [ListAllBurPLCs](https://github.com/supportcz/ListAllBurPLCs) - This tool lists all B&R PLCs on network
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
-
+* [openSAFETYLogbrowser](https://github.com/banickn/openSAFETY-logbrowser) - a log browser application for openSAFETY used with a openPOWERLINKMN based on Electron.
 ---
 
 ## Communication
@@ -75,6 +75,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [modbusTCP Automation-Studio Library](https://github.com/stephan1827/modbusTCP-Automation-Studio) - modbusTCP library for Automation Studio with legacy runtimes that don't support native modbusTCP
 * [AsUdp AsTcp demo1](https://github.com/hilch/demo-AsTcp-AsUdp) - Automation Studio demo: how to use the TcpIp- system- libraries "AsTcp" and "AsUdp" 
 * [openPOWERLINK](http://openpowerlink.sourceforge.net/web/) - openPOWERLINK - An Open Source POWERLINK protocol stack
+* [openPowerlinkQtApp](https://github.com/OpenAutomationTechnologies/openPOWERLINK_Qt_App) Advanced QT app for openPOWERLINK v2.x
 * [DatabaseCreatorForAsix](https://github.com/tomaszkudla/DatabaseCreatorForAsix) - Application that helps developing automation systems with B&R X20 PLCs and Asix Evo 9.
 
 ---
