@@ -60,7 +60,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 
 ---
 
-## Diagnosis
+## Diagnosis/ Installation/ Service
 *Useful diagnosis tools for B&amp;R PLCs*
 
 * [SystemDumpViewer](https://github.com/bee-eater/SystemDumpViewer) - System Dump Viewer: Viewer for SystemDump.xml files of B&amp;R PLCs with a few nice features.
