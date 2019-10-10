@@ -24,7 +24,8 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 ### based on mapp View
 * [Mapp View Getting Started](https://github.com/hilch/mapp-view-getting-started) - Getting Started with B&R mappView
 * [mapp View wiki](https://github.com/stephan1827/mappView/wiki) - Collection of B&R mappView tips and code snippets
-* [mapp View User Managment](https://github.com/stephan1827/mappView-User) - Sample for user managment with mappView
+* [mapp View User Managment](https://github.com/stephan1827/mappView-User) - Sample for a user managment with mappView
+* [mapp View File Explorer](https://github.com/stephan1827/mappView-File-Explorer) - Sample for a file explorer with mappView
 
 ## based on HTML
 * [webdemo](https://github.com/hilch/br-plc-as-webserver) - demo: use B&R plc as webserver
