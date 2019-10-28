@@ -37,6 +37,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 *single axis, cnc, robotic etc*
 ### Common
 * [acopos-cheat-sheet](https://github.com/hilch/bar-acopos-cheat-sheet) - ACOPOS Cheat Sheet
+* [B&R RFID reader sample for .NET](https://github.com/stephan1827/RFID-DotNET) - Sample project for accessing B&R RFID reader with Visual Studio
 
 ### based on mapp Motion
 
