@@ -15,7 +15,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [simple recipe handling](https://github.com/hilch/dataobj-recipe) - Automation Studio demo: simple recipe handling with data objects (Library DataObj)
 * [FindUsbStickOnBAndRPlc](https://github.com/hilch/FindUsbStickOnBAndRPlc) -Search USB Stick connected to a B&amp;R PLC and use it as file device for FileIO - Library.
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
-* [ap3131](https://github.com/hilch/demo-AP3131) - B&am;R Automation Studio demo: how to get data from X20 energy metering module X20AP3131
+
 
 ---
 
@@ -61,7 +61,8 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 ### based on mapp Control
 
 * [MpTemp demo1](https://github.com/hilch/demo-MpTemp) - Automation Studio demo application with mapp component MpTemp
-
+* [ap3131](https://github.com/hilch/demo-AP3131) - B&am;R Automation Studio demo: how to get data from X20 energy metering module X20AP3131
+* [demo-AsIOVib](https://github.com/hilch/demo-AsIOVib) - shows how to upload raw data from X20CM4810 condition monitoring module. Uses 'AsIOVib' / 'vbioCtrlCM4810Ex1'
 ---
 
 ## Diagnosis/ Installation/ Service
