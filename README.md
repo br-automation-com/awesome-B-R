@@ -1,5 +1,5 @@
 # awesome-B-R [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.To add, remove or change things on the list: please submit a pull request to the GitHub repository.
+A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.To add, remove or change things on the list: please submit a [pull request](https://github.com/hilch/awesome-B-R/pulls).
 
 ---
 
