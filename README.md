@@ -65,7 +65,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 
 ### based on standard libraries
 
-* [ap3131](https://github.com/hilch/demo-AP3131) - B&am;R Automation Studio demo: how to get data from X20 energy metering module X20AP3131
+* [ap3131](https://github.com/hilch/demo-AP3131) - B&R Automation Studio demo: how to get data from X20 energy metering module X20AP3131
 * [demo-AsIOVib](https://github.com/hilch/demo-AsIOVib) - shows how to upload raw data from X20CM4810 condition monitoring module. Uses 'AsIOVib' / 'vbioCtrlCM4810Ex1'
 ---
 
