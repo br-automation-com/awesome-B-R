@@ -37,7 +37,6 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 *single axis, cnc, robotic etc*
 ### Common
 * [acopos-cheat-sheet](https://github.com/hilch/bar-acopos-cheat-sheet) - ACOPOS Cheat Sheet
-* [B&R RFID reader sample for .NET](https://github.com/stephan1827/RFID-DotNET) - Sample project for accessing B&R RFID reader with Visual Studio
 
 ### based on mapp Motion
 
@@ -89,6 +88,8 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [openPOWERLINK](http://openpowerlink.sourceforge.net/web/) - openPOWERLINK - An Open Source POWERLINK protocol stack
 * [openPowerlinkQtApp](https://github.com/OpenAutomationTechnologies/openPOWERLINK_Qt_App) Advanced QT app for openPOWERLINK v2.x
 * [DatabaseCreatorForAsix](https://github.com/tomaszkudla/DatabaseCreatorForAsix) - Application that helps developing automation systems with B&R X20 PLCs and Asix Evo 9.
+* [B&R RFID reader sample for .NET](https://github.com/stephan1827/RFID-DotNET) - Sample project for accessing B&R RFID reader with Visual Studio
+
 
 ---
 
