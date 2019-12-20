@@ -16,7 +16,6 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [FindUsbStickOnBAndRPlc](https://github.com/hilch/FindUsbStickOnBAndRPlc) -Search USB Stick connected to a B&amp;R PLC and use it as file device for FileIO - Library.
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
 
-
 ---
 
 ## Visualisation 
@@ -54,7 +53,6 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [acinvlib](https://github.com/hilch/ac_invlib) - B&amp;R Automation Studio Library for ACOPOSinverter
 * [demo-MpCnc-with-ACP10-ARNC0](https://github.com/hilch/demo-MpCnc-with-ACP10-ARNC0) - demo cnc application (Automation Studio) with B&R mapp components (MpCNC based on ACP10/ARNC0) 
 
-
 ---
 
 ## Process control
@@ -64,9 +62,9 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [MpTemp demo1](https://github.com/hilch/demo-MpTemp) - Automation Studio demo application with mapp component MpTemp
 
 ### based on standard libraries
-
 * [ap3131](https://github.com/hilch/demo-AP3131) - B&R Automation Studio demo: how to get data from X20 energy metering module X20AP3131
 * [demo-AsIOVib](https://github.com/hilch/demo-AsIOVib) - shows how to upload raw data from X20CM4810 condition monitoring module. Uses 'AsIOVib' / 'vbioCtrlCM4810Ex1'
+
 ---
 
 ## Diagnosis/ Installation/ Service
@@ -79,6 +77,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
 * [openSAFETYLogbrowser](https://github.com/banickn/openSAFETY-logbrowser) - a log browser application for openSAFETY used with a openPOWERLINKMN based on Electron.
 * [acopos-cheat-sheet](https://github.com/hilch/bar-acopos-cheat-sheet) - ACOPOS Cheat Sheet
+
 ---
 
 ## Communication
