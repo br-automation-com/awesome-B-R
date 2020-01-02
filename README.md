@@ -69,6 +69,12 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 
 ---
 
+## Security
+
+* [BrSecurity](https://hilch.github.io/BrSecurity) - Automation Studio Lib with Security functions (Password/Encrypt/Decrypt)
+
+---
+
 ## Diagnosis/ Installation/ Service
 *Useful diagnosis tools for B&amp;R PLCs*
 
