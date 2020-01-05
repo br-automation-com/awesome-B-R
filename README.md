@@ -106,5 +106,6 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 
 * [br-sitemanager-azure-demo](https://github.com/hzeitlhofer/br-sitemanager-azure-demo) - B&amp;R SiteManager Demo for Azure IoT
 * [PahoMQTT_Library](https://github.com/br-automation-com/PahoMQTT_Library) - Eclipse Paho MQTT Client Library for B&R SG4 targets
+* [azure-iothub-instructions](https://dv-br-automation.github.io/azure-iothub-instructions/) - Getting started guide for Azure IoT Hub on B&R APCs
 
 
