@@ -14,6 +14,8 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [simple recipe handling](https://github.com/hilch/dataobj-recipe) - Automation Studio demo: simple recipe handling with data objects (Library DataObj)
 * [FindUsbStickOnBAndRPlc](https://github.com/hilch/FindUsbStickOnBAndRPlc) -Search USB Stick connected to a B&amp;R PLC and use it as file device for FileIO - Library.
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
+* [Connect USB sticks](https://github.com/br-automation-com/AS-USB) - This is a sample project for automatically mounting multiple USB sticks on a B&R PLC.
+* [Connect a network share](https://github.com/br-automation-com/AS-NET) - This is a sample project for mounting a network share on a B&R PLC.
 
 ### Security
 * [BrSecurity](https://hilch.github.io/BrSecurity) - Automation Studio Lib with Security functions (Password/Encrypt/Decrypt)
@@ -29,9 +31,10 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 ### based on mapp View
 * [Mapp View Getting Started](https://github.com/hilch/mapp-view-getting-started) - Getting Started with B&R mappView
 * [mapp View wiki](https://github.com/stephan1827/mappView/wiki) - Collection of B&R mappView tips and code snippets
-* [mapp View User Management](https://github.com/stephan1827/mappView-User) - Sample for a user management with mappView
-* [mapp View File Explorer](https://github.com/stephan1827/mappView-File-Explorer) - Sample for a file explorer with mappView
-* [mapp View Recipe Management](https://github.com/stephan1827/mappView-Recipe) - Sample for a user management with mappView
+* [mapp View User Management](https://github.com/br-automation-com/mappView-User) - Sample for a user management with mappView
+* [mapp View File Explorer](https://github.com/br-automation-com/mappView-File-Explorer) - Sample for a file explorer with mappView
+* [mapp View Recipe Management](https://github.com/br-automation-com/mappView-Recipe) - Sample for a user management with mappView
+* [mapp View Data Recorder](https://github.com/br-automation-com/mappView-Recorder) - This is a sample project for a data recorder with mappView
 * [mapp View Software Management](https://github.com/br-automation-com/mappView-Backup) - Sample for a software management with mappView
 
 ### based on HTML
