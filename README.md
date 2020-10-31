@@ -75,8 +75,8 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [demo-AsIOVib](https://github.com/hilch/demo-AsIOVib) - shows how to upload raw data from X20CM4810 condition monitoring module. Uses 'AsIOVib' / 'vbioCtrlCM4810Ex1'
 
 
-## Diagnosis/ Installation/ Service
-*Useful diagnosis tools for B&amp;R PLCs*
+## Tools
+*Useful tools for B&amp;R PLCs*
 
 * [SystemDumpViewer](https://github.com/bee-eater/SystemDumpViewer) - Viewer for SystemDump.xml files of B&amp;R PLCs with a few nice features.
 * [brwatch](http://hilch.github.io/brwatch/) - small and portable service tool for B&amp;R PLCs. list, watch and change process variables, start and stop task, search and reboot CPUs, change IP-settings. Additionaly it logs PV values to CSV- Files
@@ -85,6 +85,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
 * [openSAFETYLogbrowser](https://github.com/banickn/openSAFETY-logbrowser) - a log browser application for openSAFETY used with a openPOWERLINKMN based on Electron.
 * [acopos-cheat-sheet](https://github.com/hilch/bar-acopos-cheat-sheet) - ACOPOS Cheat Sheet
+* [StructuredText Language Package for ATOM](https://github.com/tmatijevich/language-as-structured-text) - ATOM support for IEC 61131-3 Structured Text and Automation Studio (AS) projects including syntax highlighting, snippets, and auto-completion.
 
 ---
 
