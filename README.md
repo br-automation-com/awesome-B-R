@@ -92,6 +92,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [openSAFETYLogbrowser](https://github.com/banickn/openSAFETY-logbrowser) - a log browser application for openSAFETY used with a openPOWERLINKMN based on Electron.
 * [acopos-cheat-sheet](https://github.com/hilch/bar-acopos-cheat-sheet) - ACOPOS Cheat Sheet
 * [StructuredText Language Package for ATOM](https://github.com/tmatijevich/language-as-structured-text) - ATOM support for IEC 61131-3 Structured Text and Automation Studio (AS) projects including syntax highlighting, snippets, and auto-completion.
+* [StructuredText Language Package for VS Code](https://github.com/Serhioromano/vscode-st) - Visual Studio Code support for IEC 61131-3 Structured Text 
 
 ---
 
