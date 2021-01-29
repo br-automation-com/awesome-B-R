@@ -8,8 +8,6 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 
 ### based on mapp Services
 
-* [MpData demo1](https://github.com/hilch/demo-MpData) - Automation Studio data logging demo for MpData record data and store as CSV file.
-
 ### based on standard libraries
 * [simple recipe handling](https://github.com/hilch/dataobj-recipe) - Automation Studio demo: simple recipe handling with data objects (Library DataObj)
 * [FindUsbStickOnBAndRPlc](https://github.com/hilch/FindUsbStickOnBAndRPlc) -Search USB Stick connected to a B&amp;R PLC and use it as file device for FileIO - Library.
