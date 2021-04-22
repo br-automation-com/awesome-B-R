@@ -21,6 +21,8 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 ### Mathematics
 * [RandomLib](https://github.com/brownNinja17/RandomLib) - RandomLib is an Automation Studio library to generate random data.
 
+### Community libraries
+* [brOscatLib](https://github.com/tkucic/brOscatLib) - B&R Automation studio port of the popular Oscat libraries
 
 ---
 
