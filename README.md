@@ -7,7 +7,11 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 *alarm handling, recipe handling, data logging, user handling etc.*
 
 ### based on mapp Services
-
+* [mappDatabase](https://github.com/br-automation-com/mappDatabase-Demo) - Sample project for a basic recipe system using mappDatabase and mappView
+* [mappData](https://github.com/br-automation-com/mappView-Recorder) - This is a sample project for a data recorder with mappView and mappData
+* [mappBackup](https://github.com/br-automation-com/mappView-Backup) - Sample for a software management with mappView and mappBackup
+* [mappRecipe](https://github.com/br-automation-com/mappView-Recipe) - Sample for a user management with mappView and mappRecipe
+* 
 ### based on standard libraries
 * [simple recipe handling](https://github.com/hilch/dataobj-recipe) - Automation Studio demo: simple recipe handling with data objects (Library DataObj)
 * [FindUsbStickOnBAndRPlc](https://github.com/hilch/FindUsbStickOnBAndRPlc) -Search USB Stick connected to a B&amp;R PLC and use it as file device for FileIO - Library.
@@ -33,10 +37,10 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [mapp View wiki](https://github.com/stephan1827/mappView/wiki) - Collection of B&R mappView tips and code snippets
 * [mapp View User Management](https://github.com/br-automation-com/mappView-User) - Sample for a user management with mappView
 * [mapp View File Explorer](https://github.com/br-automation-com/mappView-File-Explorer) - Sample for a file explorer with mappView
-* [mapp View Recipe Management](https://github.com/br-automation-com/mappView-Recipe) - Sample for a user management with mappView
-* [mapp View Data Recorder](https://github.com/br-automation-com/mappView-Recorder) - This is a sample project for a data recorder with mappView
+* [mapp View Recipe Management](https://github.com/br-automation-com/mappView-Recipe) - Sample for a user management with mappView and mappRecipe
+* [mapp View Data Recorder](https://github.com/br-automation-com/mappView-Recorder) - This is a sample project for a data recorder with mappView and mappData
 * [mapp View Logbook](https://github.com/br-automation-com/mappView-Logbook) - Read the PLC logbook with mappView
-* [mapp View Software Management](https://github.com/br-automation-com/mappView-Backup) - Sample for a software management with mappView
+* [mapp View Software Management](https://github.com/br-automation-com/mappView-Backup) - Sample for a software management with mappView and mappBackup
 
 ### based on HTML
 * [webdemo](https://github.com/hilch/br-plc-as-webserver) - demo: use B&R plc as webserver
