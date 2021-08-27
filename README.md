@@ -11,7 +11,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [mappData](https://github.com/br-automation-com/mappView-Recorder) - This is a sample project for a data recorder with mappView and mappData
 * [mappBackup](https://github.com/br-automation-com/mappView-Backup) - Sample for a software management with mappView and mappBackup
 * [mappRecipe](https://github.com/br-automation-com/mappView-Recipe) - Sample for a user management with mappView and mappRecipe
-* 
+
 ### based on standard libraries
 * [simple recipe handling](https://github.com/hilch/dataobj-recipe) - Automation Studio demo: simple recipe handling with data objects (Library DataObj)
 * [FindUsbStickOnBAndRPlc](https://github.com/hilch/FindUsbStickOnBAndRPlc) -Search USB Stick connected to a B&amp;R PLC and use it as file device for FileIO - Library.
