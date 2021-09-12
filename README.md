@@ -72,6 +72,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 
 ### based on standard libraries
 * [acinvlib](https://github.com/hilch/ac_invlib) - B&amp;R Automation Studio Library for ACOPOSinverter
+* [Motorky](https://gitlab.com/br_support/Motorky) - This library can perform simple positioning tasks with a stepper motor, frequency inverter or DC motor
 
 ---
 
