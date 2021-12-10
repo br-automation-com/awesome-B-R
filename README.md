@@ -27,6 +27,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 
 ### Community libraries
 * [brOscatLib](https://github.com/tkucic/brOscatLib) - B&R Automation studio port of the popular Oscat libraries
+* [BrbLibs](https://github.com/br-automation-com/BrbLibs-lib-src) - Many useful functions/function blocks to solve general requirements at programming a B&R plc
 
 ---
 
@@ -41,6 +42,9 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [mapp View Data Recorder](https://github.com/br-automation-com/mappView-Recorder) - This is a sample project for a data recorder with mappView and mappData
 * [mapp View Logbook](https://github.com/br-automation-com/mappView-Logbook) - Read the PLC logbook with mappView
 * [mapp View Software Management](https://github.com/br-automation-com/mappView-Backup) - Sample for a software management with mappView and mappBackup
+
+### based on VC4
+* [BrbLibVc4](https://github.com/br-automation-com/BrbLibs-lib-src) - Many useful functions/function blocks for a transparent and intuitive coding of a Visual Components 4 logic.
 
 ### based on HTML
 * [webdemo](https://github.com/hilch/br-plc-as-webserver) - demo: use B&R plc as webserver
@@ -112,7 +116,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [openPowerlinkQtApp](https://github.com/OpenAutomationTechnologies/openPOWERLINK_Qt_App) Advanced QT app for openPOWERLINK v2.x
 * [DatabaseCreatorForAsix](https://github.com/tomaszkudla/DatabaseCreatorForAsix) - Application that helps developing automation systems with B&R X20 PLCs and Asix Evo 9.
 * [B&R RFID reader sample for .NET](https://github.com/stephan1827/RFID-DotNET) - Sample project for accessing B&R RFID reader with Visual Studio
-
+* [OpcUaSamples](https://github.com/br-automation-com/OpcUaSamples-sample-AS) - Samples for configuration and coding OpcUa in Ansi-C and StructuredText since AS4.1 to the newest AS version with many explainings and hints
 
 ---
 
