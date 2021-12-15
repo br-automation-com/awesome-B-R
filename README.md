@@ -18,6 +18,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
 * [Connect USB sticks](https://github.com/br-automation-com/AS-USB) - This is a sample project for automatically mounting multiple USB sticks on a B&R PLC.
 * [Connect a network share](https://github.com/br-automation-com/AS-NET) - This is a sample project for mounting a network share on a B&R PLC.
+* [BrbLib](https://github.com/br-automation-com/BrbLibs-lib-src]) - Many useful functions/function blocks to solve general requirements at programming a B&R plc
 
 ### Security
 * [BrSecurity](https://hilch.github.io/BrSecurity) - Automation Studio Lib with Security functions (Password/Encrypt/Decrypt)
@@ -27,7 +28,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 
 ### Community libraries
 * [brOscatLib](https://github.com/tkucic/brOscatLib) - B&R Automation studio port of the popular Oscat libraries
-* [BrbLibs](https://github.com/br-automation-com/BrbLibs-lib-src) - Many useful functions/function blocks to solve general requirements at programming a B&R plc
+
 
 ---
 
