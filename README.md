@@ -106,7 +106,7 @@ Automation Studio extensions / alternatives / addons etc.
 ### External Tools
 *Useful tools for B&amp;R PLCs*
 * [SystemDumpViewer](https://github.com/bee-eater/SystemDumpViewer) - Viewer for SystemDump.xml files of B&amp;R PLCs with a few nice features.
-* [brwatch](http://hilch.github.io/brwatch/) - small and portable service tool for B&amp;R PLCs. list, watch and change process variables, start and stop task, search and reboot CPUs, change IP-settings. Additionaly it logs PV values to CSV- Files
+* [brwatch](http://hilch.github.io/brwatch/) - brwatch: service tool for B&R plc: watch, change, log variables, set ip adresses etc.
 * [brsnmp](https://github.com/hilch/brsnmp) - perform PVI-SNMP commands for B&R plcs (list/search PLCs, change IP settings etc.)
 * [ListAllBurPLCs](https://github.com/supportcz/ListAllBurPLCs) - This tool lists all B&R PLCs on network
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
