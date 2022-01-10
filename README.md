@@ -90,22 +90,30 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [ap3131](https://github.com/hilch/demo-AP3131) - B&R Automation Studio demo: how to get data from X20 energy metering module X20AP3131
 * [demo-AsIOVib](https://github.com/hilch/demo-AsIOVib) - shows how to upload raw data from X20CM4810 condition monitoring module. Uses 'AsIOVib' / 'vbioCtrlCM4810Ex1'
 
+---
 
-## Tools
+## Development Tools
+links regarding the plc development process
+
+### Automation Studio
+Automation Studio extensions / alternatives / addons etc.
+* [automation-studio-editor-dark](https://github.com/boaz001/automation-studio-editor-dark) - Dark mode for Automation Studio
+* [Automation-Studio-One-Dark](https://github.com/staber/Automation-Studio-One-Dark) - One Dark inspired theme for B&R Automation Studio
+* [StructuredText Language Package for ATOM](https://github.com/tmatijevich/language-as-structured-text) - Atom support for IEC 61131-3 Structured Text and Automation Studio projects
+* [EmbGcov-Demo](https://github.com/br-automation-com/EmbGcov-Demo) - Code coverage demo project with C/C++ tasks and libraries
+
+
+### External Tools
 *Useful tools for B&amp;R PLCs*
-
 * [SystemDumpViewer](https://github.com/bee-eater/SystemDumpViewer) - Viewer for SystemDump.xml files of B&amp;R PLCs with a few nice features.
 * [brwatch](http://hilch.github.io/brwatch/) - small and portable service tool for B&amp;R PLCs. list, watch and change process variables, start and stop task, search and reboot CPUs, change IP-settings. Additionaly it logs PV values to CSV- Files
 * [brsnmp](https://github.com/hilch/brsnmp) - perform PVI-SNMP commands for B&R plcs (list/search PLCs, change IP settings etc.)
 * [ListAllBurPLCs](https://github.com/supportcz/ListAllBurPLCs) - This tool lists all B&R PLCs on network
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
 * [openSAFETYLogbrowser](https://github.com/banickn/openSAFETY-logbrowser) - a log browser application for openSAFETY used with a openPOWERLINKMN based on Electron.
-* [acopos-cheat-sheet](https://github.com/hilch/bar-acopos-cheat-sheet) - ACOPOS Cheat Sheet
-* [StructuredText Language Package for ATOM](https://github.com/tmatijevich/language-as-structured-text) - ATOM support for IEC 61131-3 Structured Text and Automation Studio (AS) projects including syntax highlighting, snippets, and auto-completion.
 * [StructuredText Language Package for VS Code](https://github.com/Serhioromano/vscode-st) - Visual Studio Code support for IEC 61131-3 Structured Text 
-* [automation-studio-editor-dark](https://github.com/boaz001/automation-studio-editor-dark) - Dark mode for Automation Studio
-* [Automation-Studio-One-Dark](https://github.com/staber/Automation-Studio-One-Dark) - One Dark inspired theme for B&R Automation Studio
 * [systemdump.py](https://github.com/hilch/systemdump.py) - create and load a system dump for B&R PLC from the command line
+
 ---
 
 ## Communication
