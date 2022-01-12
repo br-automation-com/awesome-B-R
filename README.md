@@ -113,6 +113,7 @@ Automation Studio extensions / alternatives / addons etc.
 * [openSAFETYLogbrowser](https://github.com/banickn/openSAFETY-logbrowser) - a log browser application for openSAFETY used with a openPOWERLINKMN based on Electron.
 * [StructuredText Language Package for VS Code](https://github.com/Serhioromano/vscode-st) - Visual Studio Code support for IEC 61131-3 Structured Text 
 * [systemdump.py](https://github.com/hilch/systemdump.py) - create and load a system dump for B&R PLC from the command line
+* [Rev Info] (https://loupeteam.github.io/Sandbox/tools/revinfo.html) - RevInfo automatically creates Git commit data and Automation Studio build information in a variable declaration file you can use within your Automation Studio project.
 
 ---
 
