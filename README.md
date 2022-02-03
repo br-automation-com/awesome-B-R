@@ -128,6 +128,7 @@ Automation Studio extensions / alternatives / addons etc.
 * [DatabaseCreatorForAsix](https://github.com/tomaszkudla/DatabaseCreatorForAsix) - Application that helps developing automation systems with B&R X20 PLCs and Asix Evo 9.
 * [B&R RFID reader sample for .NET](https://github.com/stephan1827/RFID-DotNET) - Sample project for accessing B&R RFID reader with Visual Studio
 * [OpcUaSamples](https://github.com/br-automation-com/OpcUaSamples-sample-AS) - Samples for configuration and coding OpcUa in Ansi-C and StructuredText since AS4.1 to the newest AS version with many explainings and hints
+* [demo-br-asyncua](simple example how to get access to B&R PLC with asyncua: asyncio based OPC-UA stack) - simple example how to get access to B&R PLC with asyncua: asyncio based OPC-UA stack
 
 ---
 
