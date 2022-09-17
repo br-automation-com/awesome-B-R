@@ -29,6 +29,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 ### Community libraries
 * [brOscatLib](https://github.com/tkucic/brOscatLib) - B&R Automation studio port of the popular Oscat libraries
 * [diagnose safey digital output state](https://github.com/br-automation-com/SafeDODiag) - An Automation Studio library that uses standard PLC's I/O data to diagnoses why safe digital outputs are not enabled when commanded. Support both mapp Safety and Safety Release. Support X20SO21x0 and X20SO41x0.
+* [IecString](https://github.com/tmatijevich/IecString) - IecString is an Automation Studio library of string functions to be used with IEC 61131-1 languages such as Structured Text.
 
 ---
 
