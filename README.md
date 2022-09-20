@@ -55,6 +55,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 ## Vision
 * [Vision Demo App](https://github.com/br-automation-com/mappVision-Demo) - Demo application for B&R vision camera
 * [Vision Scipt](https://github.com/TomasVostrel/mapp_vision_files) - Python app that generates B&R mapp Vision configuration files
+* [BRDK vision](https://github.com/br-automation-com/brdkVision) - Multiple libaries for handling image, showing image on HMI with overlay, calibration, convertsions, decoded of images, recipe handling of Vision Function dataset, ROI etc.
 
 ---
 
