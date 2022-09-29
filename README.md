@@ -12,13 +12,15 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [mappBackup](https://github.com/br-automation-com/mappView-Backup) - Sample for a software management with mappView and mappBackup
 * [mappRecipe](https://github.com/br-automation-com/mappView-Recipe) - Sample for a user management with mappView and mappRecipe
 
-### based on standard libraries
+### Recipes, databases and external storage
 * [simple recipe handling](https://github.com/hilch/dataobj-recipe) - Automation Studio demo: simple recipe handling with data objects (Library DataObj)
 * [FindUsbStickOnBAndRPlc](https://github.com/hilch/FindUsbStickOnBAndRPlc) -Search USB Stick connected to a B&amp;R PLC and use it as file device for FileIO - Library.
-* [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
 * [Connect USB sticks](https://github.com/br-automation-com/AS-USB) - This is a sample project for automatically mounting multiple USB sticks on a B&R PLC.
 * [Connect a network share](https://github.com/br-automation-com/AS-NET) - This is a sample project for mounting a network share on a B&R PLC.
-* [BrbLib](https://github.com/br-automation-com/BrbLibs-lib-src) - Many useful functions/function blocks to solve general requirements at programming a B&R plc
+
+
+### String handling
+* [IecString](https://github.com/tmatijevich/IecString) - IecString is an Automation Studio library of string functions to be used with IEC 61131-1 languages such as Structured Text.
 
 ### Security
 * [BrSecurity](https://hilch.github.io/BrSecurity) - Automation Studio Lib with Security functions (Password/Encrypt/Decrypt)
@@ -26,10 +28,12 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 ### Mathematics
 * [RandomLib](https://github.com/brownNinja17/RandomLib) - RandomLib is an Automation Studio library to generate random data.
 
-### Community libraries
+### Tracing and logging
+* [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
+
+### General purpose weapons
 * [brOscatLib](https://github.com/tkucic/brOscatLib) - B&R Automation studio port of the popular Oscat libraries
-* [diagnose safey digital output state](https://github.com/br-automation-com/SafeDODiag) - An Automation Studio library that uses standard PLC's I/O data to diagnoses why safe digital outputs are not enabled when commanded. Support both mapp Safety and Safety Release. Support X20SO21x0 and X20SO41x0.
-* [IecString](https://github.com/tmatijevich/IecString) - IecString is an Automation Studio library of string functions to be used with IEC 61131-1 languages such as Structured Text.
+* [BrbLib](https://github.com/br-automation-com/BrbLibs-lib-src) - Many useful functions/function blocks to solve general requirements at programming a B&R plc
 
 ---
 
@@ -94,6 +98,13 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 
 ---
 
+## Safety / OpenSafety
+
+### based on mapp
+* [diagnose safey digital output state](https://github.com/br-automation-com/SafeDODiag) - An Automation Studio library that uses standard PLC's I/O data to diagnoses why safe digital outputs are not enabled when commanded. Support both mapp Safety and Safety Release. Support X20SO21x0 and X20SO41x0.
+
+
+--- 
 ## Development Tools
 links regarding the plc development process
 
