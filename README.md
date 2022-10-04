@@ -1,4 +1,4 @@
-# awesome-B-R [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![License: GPL v3](https://github.com/hilch/BandR-badges/blob/main/Made-For-BrAutomation.svg)](https://www.br-automation.com)
+# awesome-B-R [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Made For B&R](https://github.com/hilch/BandR-badges/blob/main/Made-For-BrAutomation.svg)](https://www.br-automation.com)
 A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.To add, remove or change things on the list: please submit a [pull request](https://github.com/hilch/awesome-B-R/pulls).
 
 ---
