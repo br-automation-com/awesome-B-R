@@ -142,6 +142,7 @@ Automation Studio extensions / alternatives / addons etc.
 * [B&R RFID reader sample for .NET](https://github.com/stephan1827/RFID-DotNET) - Sample project for accessing B&R RFID reader with Visual Studio
 * [OpcUaSamples](https://github.com/br-automation-com/OpcUaSamples-sample-AS) - Samples for configuration and coding OpcUa in Ansi-C and StructuredText since AS4.1 to the newest AS version with many explainings and hints
 * [demo-br-asyncua](https://github.com/hilch/demo-br-asyncua) - simple example how to get access to B&R PLC with asyncua: Python asyncio based OPC-UA stack
+* [Pvi.py](https://github.com/hilch/Pvi.py) - Python wrapper for B&R Pvi (process visualization interface).
 
 ---
 
