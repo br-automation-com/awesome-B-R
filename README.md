@@ -77,7 +77,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [demo-MpCnc-with-mapp-motion](https://github.com/hilch/demo-MpCnc-with-mapp-motion) - Automation Studio demo cnc application with mapp components (MpCNC based on mapp motion)
 * [mapp-robotics-getting-started](https://github.com/hilch/mapp-robotics-getting-started) - This tutorial shows how to use B&amp;R "Mapp Motion" Technology Package to implement a Delta Robot (Mapp Robotics)
 * [mapp-motion-positioning-acoposinverter](https://github.com/hilch/mapp-motion-positioning-acoposinverter) - position a sensorless induction motor with mapp Motion
-
+* [TrakDiag](https://github.com/hilch/TrakDiag) - Library for ACOPOStrak diagnosis
 
 ### based on ACP10/ARNC0
 * [demo-MpCnc-with-ACP10-ARNC0](https://github.com/hilch/demo-MpCnc-with-ACP10-ARNC0) - demo cnc application (Automation Studio) with B&R mapp components (MpCNC based on ACP10/ARNC0) 
@@ -144,6 +144,7 @@ Automation Studio extensions / alternatives / addons etc.
 * [OpcUaSamples](https://github.com/br-automation-com/OpcUaSamples-sample-AS) - Samples for configuration and coding OpcUa in Ansi-C and StructuredText since AS4.1 to the newest AS version with many explainings and hints
 * [demo-br-asyncua](https://github.com/hilch/demo-br-asyncua) - simple example how to get access to B&R PLC with asyncua: Python asyncio based OPC-UA stack
 * [Pvi.py](https://github.com/hilch/Pvi.py) - Python wrapper for B&R Pvi (process visualization interface).
+* [canopen-message-interpreter](https://github.com/hilch/canopen-message-interpreter) - Python script to interpret CAN traces as CANopen messages according to CiA DS301 / V4.2.0.
 
 ---
 
