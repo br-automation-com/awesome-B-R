@@ -114,8 +114,8 @@ links regarding the plc development process
 Automation Studio extensions / alternatives / addons etc.
 * [automation-studio-editor-dark](https://github.com/boaz001/automation-studio-editor-dark) - Dark mode for Automation Studio
 * [Automation-Studio-One-Dark](https://github.com/staber/Automation-Studio-One-Dark) - One Dark inspired theme for B&R Automation Studio
-* [StructuredText Language Package for ATOM](https://github.com/tmatijevich/language-as-structured-text) - Atom support for IEC 61131-3 Structured Text and Automation Studio projects
 * [EmbGcov-Demo](https://github.com/br-automation-com/EmbGcov-Demo) - Code coverage demo project with C/C++ tasks and libraries
+* [BuildVersion](https://github.com/br-na-pm/BuildVersion) - Build event capturing git and project version information, Windows native PowerShell, use with or without git
 
 
 ### External Tools
