@@ -116,6 +116,7 @@ Automation Studio extensions / alternatives / addons etc.
 * [Automation-Studio-One-Dark](https://github.com/staber/Automation-Studio-One-Dark) - One Dark inspired theme for B&R Automation Studio
 * [EmbGcov-Demo](https://github.com/br-automation-com/EmbGcov-Demo) - Code coverage demo project with C/C++ tasks and libraries
 * [BuildVersion](https://github.com/br-na-pm/BuildVersion) - Build event capturing git and project version information, Windows native PowerShell, use with or without git
+* [B&R DevOps Package](https://github.com/br-automation-com/BnR-DevOps-Package) - Resources for incorporating DevOps practices into AS Project Development 
 
 
 ### External Tools
