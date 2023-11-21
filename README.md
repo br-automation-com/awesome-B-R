@@ -135,18 +135,32 @@ Automation Studio extensions / alternatives / addons etc.
 
 ## Communication
 
+### OPC-UA
+* [OpcUaSamples](https://github.com/br-automation-com/OpcUaSamples-sample-AS) - Samples for configuration and coding OpcUa in Ansi-C and StructuredText since AS4.1 to the newest AS version with many explainings and hints
+* [easyuaclient-as-project](https://github.com/br-automation-com/easyuaclient-as-project-dev) - The EasyUaClnt is a simplicity wrapper library based on AsOpcUac to provide a clear interface for OpcUA client.
+* [demo-br-asyncua](https://github.com/hilch/demo-br-asyncua) - simple example how to get access to B&R PLC with asyncua: Python asyncio based OPC-UA stack
+
+### Ethernet Powerlink (EPL)
+* [openPowerlinkQtApp](https://github.com/OpenAutomationTechnologies/openPOWERLINK_Qt_App) Advanced QT app for openPOWERLINK v2.x
+* [openPOWERLINK](http://openpowerlink.sourceforge.net/web/) - openPOWERLINK - An Open Source POWERLINK protocol stack
+  
+### Modbus  
 * [Modbus TCP master (.NET)](https://github.com/stephan1827/modbusTCP) - Visual Studio .NET modbusTCP class implementing a Modbus TCP master driver
 * [Modbus TCP master (.NET) for X20BC0087](https://github.com/stephan1827/modbusTCPBR-DotNET) - Visual Studio .NET modbusTCP class implementing a Modbus TCP master driver for the B&R X20BC0087 bus controller
 * [modbusTCP Automation-Studio Library](https://github.com/stephan1827/modbusTCP-Automation-Studio) - modbusTCP library for Automation Studio with legacy runtimes that don't support native modbusTCP
+
+### CAN  
+* [canopen-message-interpreter](https://github.com/hilch/canopen-message-interpreter) - Python script to interpret CAN traces as CANopen messages according to CiA DS301 / V4.2.0.
+
+### TCP/UDP
 * [AsUdp AsTcp demo1](https://github.com/hilch/demo-AsTcp-AsUdp) - Automation Studio demo: how to use the TcpIp- system- libraries "AsTcp" and "AsUdp" 
-* [openPOWERLINK](http://openpowerlink.sourceforge.net/web/) - openPOWERLINK - An Open Source POWERLINK protocol stack
-* [openPowerlinkQtApp](https://github.com/OpenAutomationTechnologies/openPOWERLINK_Qt_App) Advanced QT app for openPOWERLINK v2.x
+
+### B&R Process Visualisation Interface (PVI)
+* [Pvi.py](https://github.com/hilch/Pvi.py) - Python wrapper for B&R Pvi (process visualization interface).
+
+### Other
 * [DatabaseCreatorForAsix](https://github.com/tomaszkudla/DatabaseCreatorForAsix) - Application that helps developing automation systems with B&R X20 PLCs and Asix Evo 9.
 * [B&R RFID reader sample for .NET](https://github.com/stephan1827/RFID-DotNET) - Sample project for accessing B&R RFID reader with Visual Studio
-* [OpcUaSamples](https://github.com/br-automation-com/OpcUaSamples-sample-AS) - Samples for configuration and coding OpcUa in Ansi-C and StructuredText since AS4.1 to the newest AS version with many explainings and hints
-* [demo-br-asyncua](https://github.com/hilch/demo-br-asyncua) - simple example how to get access to B&R PLC with asyncua: Python asyncio based OPC-UA stack
-* [Pvi.py](https://github.com/hilch/Pvi.py) - Python wrapper for B&R Pvi (process visualization interface).
-* [canopen-message-interpreter](https://github.com/hilch/canopen-message-interpreter) - Python script to interpret CAN traces as CANopen messages according to CiA DS301 / V4.2.0.
 
 ---
 
