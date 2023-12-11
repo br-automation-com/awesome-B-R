@@ -127,6 +127,7 @@ Automation Studio extensions / alternatives / addons etc.
 * [ListAllBurPLCs](https://github.com/supportcz/ListAllBurPLCs) - This tool lists all B&R PLCs on network
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
 * [openSAFETYLogbrowser](https://github.com/banickn/openSAFETY-logbrowser) - a log browser application for openSAFETY used with a openPOWERLINKMN based on Electron.
+* [B&R Automation Tools extension for VS Code](https://github.com/br-automation-com/vscode-brautomationtools) - Visual Studio Code extension for AS project editing 
 * [StructuredText Language Package for VS Code](https://github.com/Serhioromano/vscode-st) - Visual Studio Code support for IEC 61131-3 Structured Text 
 * [systemdump.py](https://github.com/hilch/systemdump.py) - create and load a system dump for B&R PLC from the command line
 * [Rev Info](https://loupeteam.github.io/Sandbox/tools/revinfo.html) - RevInfo automatically creates Git commit data and Automation Studio build information in a variable declaration file you can use within your Automation Studio project.
