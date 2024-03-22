@@ -2,6 +2,8 @@
 A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.To add, remove or change things on the list: please submit a [pull request](https://github.com/hilch/awesome-B-R/pulls).
 
 ---
+## Package Managers
+* [Loupe Package Manager (LPM)](https://loupeteam.github.io/LoupeDocs/tools/lpm.html) - LPM is the Loupe Package Manager. This tool is designed to make it easy to interact with Loupe packages within the Automation Studio and Loupe UX ecosystems. It provides a command line interface for installing packages in a project, and for managing their lifecycle (version update, dependency checks, removal, etc).
 
 ## Infrastructure
 *alarm handling, recipe handling, data logging, user handling etc.*
