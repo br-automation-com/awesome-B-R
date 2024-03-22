@@ -2,6 +2,8 @@
 A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.To add, remove or change things on the list: please submit a [pull request](https://github.com/hilch/awesome-B-R/pulls).
 
 ---
+## Package Managers
+* [Loupe Package Manager (LPM)](https://loupeteam.github.io/LoupeDocs/tools/lpm.html) - LPM is the Loupe Package Manager. This tool is designed to make it easy to interact with Loupe packages within the Automation Studio and Loupe UX ecosystems. It provides a command line interface for installing packages in a project, and for managing their lifecycle (version update, dependency checks, removal, etc).
 
 ## Infrastructure
 *alarm handling, recipe handling, data logging, user handling etc.*
@@ -17,25 +19,31 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [FindUsbStickOnBAndRPlc](https://github.com/hilch/FindUsbStickOnBAndRPlc) -Search USB Stick connected to a B&amp;R PLC and use it as file device for FileIO - Library.
 * [Connect USB sticks](https://github.com/br-automation-com/AS-USB) - This is a sample project for automatically mounting multiple USB sticks on a B&R PLC.
 * [Connect a network share](https://github.com/br-automation-com/AS-NET) - This is a sample project for mounting a network share on a B&R PLC.
+* [Persist](https://github.com/loupeteam/Persist) - Library source: Persist provides a convenient and compact way of storing variables to permanent memory. Persist can store variables and structures of any type or scope, even local variables in other programs.
+* [CSVFileLib](https://github.com/loupeteam/CSVFileLib) - Library source: The CSVFileLib library provides a simple, intuitive interface for reading and writing variable values to and from comma separated value (CSV) files.
 
 
 ### String handling
 * [IecString](https://github.com/tmatijevich/IecString) - IecString is an Automation Studio library of string functions to be used with IEC 61131-1 languages such as Structured Text.
-
+* [StringExt](https://github.com/loupeteam/StringExt) - Library source: This library extends string capabilities. Includes useful tools for parsing strings, formatting data, and converting to/from string to other data formats. 
+* [Chopper](https://github.com/loupeteam/Chopper) - Library source: Chopper allows for building of strings with variable values. Chopper uses templates to render strings efficiently.
+* [Jsmn Parse](https://github.com/loupeteam/jsmn_parse) - Library source: Jsmn Parse is a lightweight JSON packet parser.
 ### Security
 * [BrSecurity](https://hilch.github.io/BrSecurity) - Automation Studio Lib with Security functions (Password/Encrypt/Decrypt)
 
 ### Mathematics
 * [RandomLib](https://github.com/brownNinja17/RandomLib) - RandomLib is an Automation Studio library to generate random data.
+* [Hammers](https://github.com/loupeteam/Hammers) - Library source: Misc. utility functions including mean, standard deviation and scale analog input.
 
 ### Tracing and logging
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
 * [UserLog](https://github.com/tmatijevich/UserLog) - Write to user logbooks synchronously.
+* [LogThat](https://github.com/loupeteam/LogThat) - Library source: LogThat provides a easy to use interface for adding diagnostic information into the CPU’s Logger.
 
 ### General purpose weapons
 * [brOscatLib](https://github.com/tkucic/brOscatLib) - B&R Automation studio port of the popular Oscat libraries
 * [BrbLib](https://github.com/br-automation-com/BrbLibs-lib-src) - Many useful functions/function blocks to solve general requirements at programming a B&R plc
-
+* [Hammers](https://github.com/loupeteam/Hammers) - Library source: Misc. utility functions.
 ---
 
 ## Visualisation 
@@ -56,6 +64,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 
 ### based on HTML
 * [webdemo](https://github.com/hilch/br-plc-as-webserver) - demo: use B&R plc as webserver
+* [Loupe UX](https://github.com/loupeteam/Loupe-UX) - Library source: The Loupe UX javascript library provides functionality for implementing a web-based HMI for machines. It allows you to use the full capabilities of web technologies on your machine.
 
 ---
 
@@ -79,9 +88,11 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [mapp-robotics-getting-started](https://github.com/hilch/mapp-robotics-getting-started) - This tutorial shows how to use B&amp;R "Mapp Motion" Technology Package to implement a Delta Robot (Mapp Robotics)
 * [mapp-motion-positioning-acoposinverter](https://github.com/hilch/mapp-motion-positioning-acoposinverter) - position a sensorless induction motor with mapp Motion
 * [TrakDiag](https://github.com/hilch/TrakDiag) - Library for ACOPOStrak diagnosis
+* [AxisLib](https://github.com/loupeteam/AxisLib) - Library source: This repo provides packages that allow basic control of B&R Mapp Motion and ACP10 servo axes. 
 
 ### based on ACP10/ARNC0
 * [demo-MpCnc-with-ACP10-ARNC0](https://github.com/hilch/demo-MpCnc-with-ACP10-ARNC0) - demo cnc application (Automation Studio) with B&R mapp components (MpCNC based on ACP10/ARNC0) 
+* [AxisLib](https://github.com/loupeteam/AxisLib) - Library source: This repo provides packages that allow basic control of B&R Mapp Motion and ACP10 servo axes. 
 
 ### based on standard libraries
 * [acinvlib](https://github.com/hilch/ac_invlib) - B&amp;R Automation Studio Library for ACOPOSinverter
@@ -98,6 +109,9 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [ap3131](https://github.com/hilch/demo-AP3131) - B&R Automation Studio demo: how to get data from X20 energy metering module X20AP3131
 * [demo-AsIOVib](https://github.com/hilch/demo-AsIOVib) - shows how to upload raw data from X20CM4810 condition monitoring module. Uses 'AsIOVib' / 'vbioCtrlCM4810Ex1'
 
+### process control libraries
+* [Piper](https://github.com/loupeteam/Piper) - Library source: Piper is used to control the state of a machine allowing machines to be built in subsystems in a modular way. 
+* [All Together Now](https://github.com/loupeteam/atn) - Library source: ATN provides an interface for reading distributed statuses and setting commands to distributed subsystems.
 ---
 
 ## Safety / OpenSafety
@@ -155,6 +169,8 @@ Automation Studio extensions / alternatives / addons etc.
 
 ### TCP/UDP
 * [AsUdp AsTcp demo1](https://github.com/hilch/demo-AsTcp-AsUdp) - Automation Studio demo: how to use the TcpIp- system- libraries "AsTcp" and "AsUdp" 
+* [TCPComm](https://github.com/loupeteam/TCPComm) - Library source: The TCPComm library is a wrapper for the AsTCP library provided by B&R. This library both manages and simplifies the TCP communication interface.
+* [UDPComm](https://github.com/loupeteam/UDPComm) - Library source: A UDP communcation wrapper around AsUDP that simplifies usage.
 
 ### B&R Process Visualisation Interface (PVI)
 * [Pvi.py](https://github.com/hilch/Pvi.py) - Python wrapper for B&R Pvi (process visualization interface).
@@ -162,7 +178,10 @@ Automation Studio extensions / alternatives / addons etc.
 ### Other
 * [DatabaseCreatorForAsix](https://github.com/tomaszkudla/DatabaseCreatorForAsix) - Application that helps developing automation systems with B&R X20 PLCs and Asix Evo 9.
 * [B&R RFID reader sample for .NET](https://github.com/stephan1827/RFID-DotNET) - Sample project for accessing B&R RFID reader with Visual Studio
-
+* [OMJSON](https://github.com/loupeteam/OMJSON) - Library source: OMJSON provides packages for communicating with a B&R PLC using WebSockets and a JSON interface.
+* [OMBSON](https://github.com/loupeteam/OMBSON) - Library source: OMBSON is used to convert string based JSON to binary based JSON (known as BSON).
+* [OMSQL](https://github.com/loupeteam/OMSQL) - Library source: OMSQL provides functions for communicating with an SQL database from a B&R PLC.
+* [A3BR](https://github.com/loupeteam/A3br) - Library source: Handle communication between a B&R PLC and an ABB IRC’s Robot Web Services server. 
 ---
 
 ## IOT
