@@ -39,6 +39,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
 * [UserLog](https://github.com/tmatijevich/UserLog) - Write to user logbooks synchronously.
 * [LogThat](https://github.com/loupeteam/LogThat) - Library source: LogThat provides a easy to use interface for adding diagnostic information into the CPU’s Logger.
+* [MyDiag](https://github.com/hilch/MyDiag) - Library around ArEventLog and AsArSdm for CPU's logger
 
 ### General purpose weapons
 * [brOscatLib](https://github.com/tkucic/brOscatLib) - B&R Automation studio port of the popular Oscat libraries
