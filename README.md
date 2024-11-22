@@ -54,6 +54,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [mapp View wiki](https://github.com/stephan1827/mappView/wiki) - Collection of B&R mappView tips and code snippets
 * [mapp View User Management](https://github.com/br-automation-com/mappView-User) - Sample for a user management with mappView
 * [mapp View File Explorer](https://github.com/br-automation-com/mappView-File-Explorer) - Sample for a file explorer with mappView
+* [mapp View File Explorer 2](https://github.com/NytkoD/FileBrowser/tree/main) - Alternate sample for a file explorer widget and library with mappView
 * [mapp View Recipe Management](https://github.com/br-automation-com/mappView-Recipe) - Sample for a user management with mappView and mappRecipe
 * [mapp View Data Recorder](https://github.com/br-automation-com/mappView-Recorder) - This is a sample project for a data recorder with mappView and mappData
 * [mapp View Logbook](https://github.com/br-automation-com/mappView-Logbook) - Read the PLC logbook with mappView
