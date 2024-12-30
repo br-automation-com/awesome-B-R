@@ -60,6 +60,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [mapp View Logbook](https://github.com/br-automation-com/mappView-Logbook) - Read the PLC logbook with mappView
 * [mapp View Software Management](https://github.com/br-automation-com/mappView-Backup) - Sample for a software management with mappView and mappBackup
 * [mapp View ACOPOStrak diagnosis](https://github.com/br-automation-com/mvDemoTrak) - mappView Demo for ACOPOStrak
+* [mapp View compound widgets toolkit](https://github.com/mustonenm/mvCoWidgetsTools.git) - mapp View compound widgets graphical editor demo project and toolkit
 
 ### based on VC4
 * [BrbLibVc4](https://github.com/br-automation-com/BrbLibs-lib-src) - Many useful functions/function blocks for a transparent and intuitive coding of a Visual Components 4 logic.
