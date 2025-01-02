@@ -21,7 +21,7 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [Connect a network share](https://github.com/br-automation-com/AS-NET) - This is a sample project for mounting a network share on a B&R PLC.
 * [Persist](https://github.com/loupeteam/Persist) - Library source: Persist provides a convenient and compact way of storing variables to permanent memory. Persist can store variables and structures of any type or scope, even local variables in other programs.
 * [CSVFileLib](https://github.com/loupeteam/CSVFileLib) - Library source: The CSVFileLib library provides a simple, intuitive interface for reading and writing variable values to and from comma separated value (CSV) files.
-
+* [mappCleanUp](https://github.com/br-automation-com/mappCleanUp) - This sample deletes old files from a directory using different criteria.
 
 ### String handling
 * [IecString](https://github.com/tmatijevich/IecString) - IecString is an Automation Studio library of string functions to be used with IEC 61131-1 languages such as Structured Text.
@@ -67,6 +67,9 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 ### based on HTML
 * [webdemo](https://github.com/hilch/br-plc-as-webserver) - demo: use B&R plc as webserver
 * [Loupe UX](https://github.com/loupeteam/Loupe-UX) - Library source: The Loupe UX javascript library provides functionality for implementing a web-based HMI for machines. It allows you to use the full capabilities of web technologies on your machine.
+
+### Panel Hardware
+* [mappPanel](https://github.com/br-automation-com/mappPanel) - Sample for communication from a B&R PLC to a T-Panel over OPC UA.
 
 ---
 
@@ -183,7 +186,7 @@ Automation Studio extensions / alternatives / addons etc.
 * [OMJSON](https://github.com/loupeteam/OMJSON) - Library source: OMJSON provides packages for communicating with a B&R PLC using WebSockets and a JSON interface.
 * [OMBSON](https://github.com/loupeteam/OMBSON) - Library source: OMBSON is used to convert string based JSON to binary based JSON (known as BSON).
 * [OMSQL](https://github.com/loupeteam/OMSQL) - Library source: OMSQL provides functions for communicating with an SQL database from a B&R PLC.
-* [A3BR](https://github.com/loupeteam/A3br) - Library source: Handle communication between a B&R PLC and an ABB IRC’s Robot Web Services server. 
+* [A3BR](https://github.com/loupeteam/A3br) - Library source: Handle communication between a B&R PLC and an ABB IRC’s Robot Web Services server.
 ---
 
 ## IOT
