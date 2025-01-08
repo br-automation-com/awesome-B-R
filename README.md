@@ -28,6 +28,8 @@ A curated list of awesome [B&amp;R](https://www.br-automation.com)  frameworks, 
 * [StringExt](https://github.com/loupeteam/StringExt) - Library source: This library extends string capabilities. Includes useful tools for parsing strings, formatting data, and converting to/from string to other data formats. 
 * [Chopper](https://github.com/loupeteam/Chopper) - Library source: Chopper allows for building of strings with variable values. Chopper uses templates to render strings efficiently.
 * [Jsmn Parse](https://github.com/loupeteam/jsmn_parse) - Library source: Jsmn Parse is a lightweight JSON packet parser.
+* [JSONer](https://github.com/Bikeprincess/BnR-JSONer) - JSONer library for serialize and deserialize JSON for B&R PLC.
+
 ### Security
 * [BrSecurity](https://hilch.github.io/BrSecurity) - Automation Studio Lib with Security functions (Password/Encrypt/Decrypt)
 
