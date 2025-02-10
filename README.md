@@ -146,7 +146,7 @@ Automation Studio extensions / alternatives / addons etc.
 * [SystemDumpViewer](https://github.com/bee-eater/SystemDumpViewer) - Viewer for SystemDump.xml files of B&amp;R PLCs with a few nice features.
 * [brwatch](http://hilch.github.io/brwatch/) - brwatch: service tool for B&R plc: watch, change, log variables, set ip adresses etc.
 * [brsnmp](https://github.com/hilch/brsnmp) - perform PVI-SNMP commands for B&R plcs (list/search PLCs, change IP settings etc.)
-* [ListAllBurPLCs](https://github.com/supportcz/ListAllBurPLCs) - This tool lists all B&R PLCs on network
+* [ListAllBurPLCs](https://github.com/Chihing/ListAllBurPLCs) - This tool lists all B&R PLCs on network
 * [simple data trace](https://github.com/hilch/PLC-data-trace) - simple data trace (Automation Studio) records PLC variables in a high priority task and save the data to CSV file afterward.
 * [openSAFETYLogbrowser](https://github.com/banickn/openSAFETY-logbrowser) - a log browser application for openSAFETY used with a openPOWERLINKMN based on Electron.
 * [B&R Automation Tools extension for VS Code](https://github.com/br-automation-com/vscode-brautomationtools) - Visual Studio Code extension for AS project editing 
